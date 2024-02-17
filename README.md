@@ -21,12 +21,13 @@ The challenge is to create the [Nike brand page](https://oumlillahoucine.github.
 ### Screenshot
 
 The result:
-![](./desktop.png)
+
+![Desktop screen image](./public/images/desktop.png)
 
 ### Links
 
 - Solution URL: [Nike-brand-design-code](https://github.com/OumlilLahoucine/nike-brand-page)
-- Live Site URL: [Nike-brand-design-code](https://oumlillahoucine.github.io/nike-brand-page)
+- Live Site URL: [Nike-brand-design-live](https://oumlillahoucine.github.io/nike-brand-page)
 
 ### Built with
 

@@ -14,9 +14,9 @@ function Header() {
   return (
     <header className={`header ${navOpen ? "nav-open" : ""}`}>
       <picture>
-        <source srcSet="/images/logo.webp" type="image/webp" />
-        <source srcSet="/images/logo.png" type="image/png" />
-        <img src="/images/logo.png" alt="Nike logo" className="img-logo" />
+        <source srcSet="./images/logo.webp" type="image/webp" />
+        <source srcSet="./images/logo.png" type="image/png" />
+        <img src="./images/logo.png" alt="Nike logo" className="img-logo" />
       </picture>
 
       <nav className="navigation">
@@ -78,10 +78,10 @@ function ImageBox() {
   return (
     <div className="image-box">
       <picture>
-        <source srcSet="/images/domino-cropped.webp" type="image/webp" />
-        <source srcSet="/images/domino-cropped.png" type="image/png" />
+        <source srcSet="./images/domino-cropped.webp" type="image/webp" />
+        <source srcSet="./images/domino-cropped.png" type="image/png" />
         <img
-          src="/images/domino-cropped.png"
+          src="./images/domino-cropped.png"
           alt="Nike domino"
           className="domino-img"
         />
@@ -117,7 +117,7 @@ function Market({ imageName, alt = "Image", href = "#" }) {
   return (
     <li>
       <a href={href}>
-        <img src={`/images/${imageName}`} alt={alt} className="market-img" />
+        <img src={`./images/${imageName}`} alt={alt} className="market-img" />
       </a>
     </li>
   );

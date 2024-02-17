@@ -16,22 +16,17 @@ This is the front-end code of the [Nike brand page](https://www.figma.com/file/r
 
 ### The challenge
 
-The challenge is to create the [Nike brand page](mylink) and make it look as close to this [design](https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=0-1&t=ExzjQLThD1EGWh8Q-0).
+The challenge is to create the [Nike brand page](https://oumlillahoucine.github.io/nike-brand-page) and make it look as close to this [design](https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=0-1&t=ExzjQLThD1EGWh8Q-0).
 
 ### Screenshot
 
-Desktop screen:
-![](./design/screenshot.png)
-
-Mobile screen:
-![](./design/screenshot.png)
+The result:
+![](./desktop.png)
 
 ### Links
 
-- Solution URL: [Nike-brand-design-code](https://github.com/OumlilLahoucine/Frontend-Mentor--Recipe-page)
-- Live Site URL: [Nike-brand-design-code](https://oumlillahoucine.github.io/Frontend-Mentor--Recipe-page/)
-
-<!-- ## My process -->
+- Solution URL: [Nike-brand-design-code](https://github.com/OumlilLahoucine/nike-brand-page)
+- Live Site URL: [Nike-brand-design-code](https://oumlillahoucine.github.io/nike-brand-page)
 
 ### Built with
 

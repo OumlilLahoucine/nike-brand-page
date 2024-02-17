@@ -21,7 +21,7 @@ The challenge is to create the [Nike brand page](https://oumlillahoucine.github.
 ### Screenshot
 
 The result:
-![](./images/desktop.png)
+![Desktop screen image](./public/images/desktop.png)
 
 ### Links
 

@@ -20,7 +20,7 @@ The challenge is to create the [Nike brand page](https://oumlillahoucine.github.
 
 ### Screenshot
 
-The result:\
+The result:<br/>
 ![Desktop screen image](./public/images/desktop.png)
 
 ### Links

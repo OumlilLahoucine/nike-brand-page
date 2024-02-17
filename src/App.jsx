@@ -17,9 +17,6 @@ function Header() {
         <source srcSet="./images/logo.webp" type="image/webp" />
         <source srcSet="./images/logo.png" type="image/png" />
         <img src="./images/logo.png" alt="Nike logo" className="img-logo" />
-        <source srcSet="images/logo.webp" type="image/webp" />
-        <source srcSet="images/logo.png" type="image/png" />
-        <img src="images/logo.png" alt="Nike logo" className="img-logo" />
       </picture>
 
       <nav className="navigation">

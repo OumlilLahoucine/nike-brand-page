@@ -14,9 +14,9 @@ function Header() {
   return (
     <header className={`header ${navOpen ? "nav-open" : ""}`}>
       <picture>
-        <source srcSet="./images/logo.webp" type="image/webp" />
-        <source srcSet="./images/logo.png" type="image/png" />
-        <img src="./images/logo.png" alt="Nike logo" className="img-logo" />
+        <source srcSet="./nike-brand-page/images/logo.webp" type="image/webp" />
+        <source srcSet="./nike-brand-page/images/logo.png" type="image/png" />
+        <img src="./nike-brand-page/images/logo.png" alt="Nike logo" className="img-logo" />
       </picture>
 
       <nav className="navigation">
